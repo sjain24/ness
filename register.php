@@ -269,7 +269,7 @@
   <!-- meta character set -->
   <meta charset="UTF-8">
   <!-- Site Title -->
-  <title>Registration & Case Study solution upload | NESS | Alcheringa 2019</title>
+  <title>Registration & Case Study solution upload | NESS | Alcheringa 2020</title>
       <link rel="icon" href="../beta/img/favicon.ico">
   <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
 
@@ -285,7 +285,7 @@
       <nav class="navbar navbar-expand-md tm-navbar" id="tmNav">
         <div class="container">
           <div class="tm-next">
-              <a href="#hero" class="navbar-brand">The Town</a>
+              <a href="#hero" class="navbar-brand">NESS</a>
           </div>
 
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -309,10 +309,10 @@
 
       <div class="text-center tm-hero-text-container">
         <div class="tm-hero-text-container-inner">
-            <h2 class="tm-hero-title">The Town</h2>
+            <h2 class="tm-hero-title">NESS</h2>
             <p class="tm-hero-subtitle">
-              Parallax Bootstrap Theme
-              <br />by TemplateMo
+              North East Social Summit
+              <br />by Alcheringa,2020
             </p>
         </div>
       </div>
@@ -349,36 +349,36 @@
           </div>
         </div>
 
-        <div class="row tm-section-pad-top">
-          <div class="col-lg-4">
-            <i class="fas fa-4x fa-bus text-center tm-icon"></i>
+        <!-- <div class="row tm-section-pad-top"> -->
+          <!-- <div class="col-lg-4"> -->
+            <!-- <i class="fas fa-4x fa-bus text-center tm-icon"></i>
             <h4 class="text-center tm-text-primary mb-4">Curabitur at elit eu risus</h4>
             <p>
               Sed ultrices sit amet mi eu malesuada. Cras ultricies gravida
               nisi, ac pellentesque nunc tincidunt quis. Aenean at ornare lacus.
               Duis imperdiet lacus justo.
             </p>
-          </div>
+          </div> -->
 
-        <div class="col-lg-4 mt-5 mt-lg-0">
-          <i class="fas fa-4x fa-bicycle text-center tm-icon"></i>
+        <!-- <div class="col-lg-4 mt-5 mt-lg-0"> -->
+          <!-- <i class="fas fa-4x fa-bicycle text-center tm-icon"></i>
           <h4 class="text-center tm-text-primary mb-4">Nunc sed metus vel nisi</h4>
           <p>
             Praesent ut finibus leo. Duis et tempus ipsum, id pretium nunc.
             Vivamus imperdiet sem quis orci pharetra convallis. Nunc a tempus
             nisi, sed fringilla purus. In hac habitasse platea.
           </p>
-        </div>
-        <div class="col-lg-4 mt-5 mt-lg-0">
-          <i class="fas fa-4x fa-city text-center tm-icon"></i>
-          <h4 class="text-center tm-text-primary mb-4">Fusce sed nisi sagittis</h4>
-          <p>
-            Donec vestibulum libero nisl. Curabitur ac orci ac lorem blandit
-            volutpat. Sed ac sodales nibh, ut porttitor elit. Sed id dui mi.
-            Vestibulum ante ipsum primis in faucibus.
-          </p>
-        </div>
-      </div>
+        </div> -->
+        <!-- <div class="col-lg-4 mt-5 mt-lg-0"> -->
+          <!-- <i class="fas fa-4x fa-city text-center tm-icon"></i> -->
+          <!-- <h4 class="text-center tm-text-primary mb-4">Fusce sed nisi sagittis</h4> -->
+          <!-- <p> -->
+            <!-- Donec vestibulum libero nisl. Curabitur ac orci ac lorem blandit -->
+            <!-- volutpat. Sed ac sodales nibh, ut porttitor elit. Sed id dui mi. -->
+            <!-- Vestibulum ante ipsum primis in faucibus. -->
+          <!-- </p> -->
+        <!-- </div> -->
+      <!-- </div> -->
     </section>
     <section id="work" class="tm-section-pad-top">
       <!-- <div class="container tm-container-gallery">
@@ -516,7 +516,7 @@
                                                         <span style="font-size: 12px;color: #d61c22;" class=""><?php if(isset($_POST['submit'])){echo $phone_error;} ?></span>
                                                     </div>
                                                     <div class="form-group">
-                                                            <input type="text" name="head_college_name" value="<?php if(isset($_POST['submit'])){echo $hcna;} ?>" placeholder="Team Head College Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Team College Name'" required class="single-input">
+                                                            <input type="text" name="head_college_name" value="<?php if(isset($_POST['submit'])){echo $hcna;} ?>" placeholder="College Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Team College Name'" required class="single-input">
                                                             <span style="font-size: 12px;color: #d61c22;" class=""><?php if(isset($_POST['submit'])){echo $head_college_name_error;} ?></span>
                                                     </div>
                                                     <div class="form-group">
@@ -564,7 +564,7 @@
                                         </div>
                                         <br>
                                                     <div class="mt-10">
-                                                        <input type="submit" name="submit" placeholder="Submit" class="genric-btn primary circle" id="subops">
+                                                        <input type="submit" name="submit" placeholder="Submit" class="btn btn-primary" id="subops">
                                                     </div>
                                         </form>
                                     </div>
