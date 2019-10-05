@@ -285,9 +285,9 @@
       <nav class="navbar navbar-expand-md tm-navbar" id="tmNav">
         <div class="container">
           <div class="tm-next">
-            <a href="" class="navbar-brand">
-              <img src="logo.png" height="50px" width="50px">
-            </a>
+              <a href="#hero" class="navbar-brand">
+              	<img src="logo.svg" height="70px" width="70px">
+              </a>
           </div>
 
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
