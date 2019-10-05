@@ -1,3 +1,9 @@
+<!-- color scheme:
+grey - #E2E3E3
+blue - #191E29
+green - #01C38D -->
+
+
 <?php
     // source code of form
     require 'functions.php';
@@ -233,12 +239,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <!-- <title>The Town HTML CSS Template</title> -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/templatemo-style.css" />
     <link rel="stylesheet" href="fontawesome-5.5/css/all.min.css" />
     <link rel="stylesheet" href="slick/slick.css">
     <link rel="stylesheet" href="slick/slick-theme.css">
     <link rel="stylesheet" href="magnific-popup/magnific-popup.css">
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
-    <link rel="stylesheet" href="css/templatemo-style.css" />
+ 
+    
 
 <style>
 ::placeholder {
@@ -273,10 +281,6 @@
       <link rel="icon" href="../beta/img/favicon.ico">
   <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
 
-    <!--
-	The Town
-	https://templatemo.com/tm-525-the-town
-	-->
   </head>
   <body>
     <!-- Hero section -->
@@ -323,8 +327,8 @@
 
       <div class="text-center tm-hero-text-container">
         <div class="tm-hero-text-container-inner">
-            <h2 class="tm-hero-title">North East Social Summit</h2>
-            <p class="tm-hero-subtitle">
+            <h2 class="tm-hero-title" style="color:#E2E3E3; ">North East Social Summit</h2>
+            <p class="tm-hero-subtitle" style="color:black">
               by Alcheringa, IITG
               <br />
             </p>

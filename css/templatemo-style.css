@@ -42,7 +42,7 @@ a:focus {
 }
 
 .tm-text-primary {
-  color: #3496d8;
+  color: #01C38D;
 }
 
 .tm-font-big {
@@ -51,7 +51,7 @@ a:focus {
 
 .tm-btn-primary {
   color: white;
-  background-color: #3496d8;
+  background-color: #01C38D;
   padding: 14px 35px;
   border-radius: 30px;
 }
@@ -78,14 +78,14 @@ a:focus {
 }
 
 .navbar-brand {
-  color: white;
+  color:#191E29;
   font-size: 1.4rem;
   font-weight: bold;
 }
 
 .navbar-brand:hover,
 .tm-navbar.scroll .navbar-brand:hover {
-  color: #3496d8;
+  color: #01C38D;
 }
 
 .tm-navbar.scroll .navbar-brand {
@@ -97,7 +97,7 @@ a:focus {
 }
 
 .tm-nav-link {
-  color: white;
+  color: #191E29;
 }
 
 .tm-navbar.scroll .tm-nav-link {
@@ -107,7 +107,7 @@ a:focus {
 .tm-navbar.scroll .tm-nav-link:hover,
 .tm-navbar.scroll .tm-nav-link.current,
 .tm-nav-link:hover {
-  color: #3496d8;
+  color: #01C38D;
 }
 
 .navbar-toggler {
@@ -117,7 +117,7 @@ a:focus {
 }
 
 .navbar-toggler-icon {
-  color: white;
+  color: #191E29;
   padding-top: 6px;
 }
 
@@ -135,6 +135,7 @@ a:focus {
   background-image: url(../img/background.jpg);
   background-repeat: no-repeat;
   height: 100vh;
+  opacity: 1;
   min-height: 375px;
   position: relative;
 }
@@ -214,7 +215,7 @@ a:focus {
 .tm-down-arrow:hover,
 .tm-down-arrow:focus {
   color: white;
-  background: #3496d8;
+  background: #01C38D;
 }
 
 /* Introduction */
@@ -232,7 +233,7 @@ a:focus {
 .tm-icon {
   display: block;
   margin-bottom: 55px;
-  color: #3496d8;
+  color: #01C38D;
 }
 
 /* Work */
@@ -357,7 +358,7 @@ figure.effect-honey {
 }
 
 figure.effect-honey img {
-  opacity: 0.9;
+  opacity: 0.7;
   -webkit-transition: opacity 0.35s;
   transition: opacity 0.35s;
 }
@@ -372,7 +373,7 @@ figure.effect-honey figcaption::before {
   left: 0;
   width: 100%;
   height: 10px;
-  background: #3496d8;
+  background: #01C38D;
   content: "";
   -webkit-transform: translate3d(0, 10px, 0);
   transform: translate3d(0, 10px, 0);
@@ -454,7 +455,7 @@ figure.effect-honey:hover h2 i {
 
 .tm-contact-item-link:hover i,
 .tm-contact-item-link:hover span {
-  color: #3496d8;
+  color: #01C38D;
 }
 
 .tm-input {
@@ -499,7 +500,7 @@ figure.effect-honey:hover h2 i {
 
 .tm-footer-link:hover,
 .tm-footer-link:focus {
-  color: #3496d8;
+  color: #01C38D;
   text-decoration: none;
 }
 
