@@ -354,14 +354,13 @@ green - #01C38D -->
             <div class="tm-intro-text-container">
                 <h2 class="tm-text-primary mb-4 tm-section-title">Introduction</h2>
                 <p class="mb-4 tm-intro-text">
-                  The Town is <strong>simple CSS template</strong> built on Bootstrap v4.1.3
-                  and this is a little parallax layout that you can use for your websites.
-              </p>
+                  North East Social Summit (NESS) is a conference held over 2 days during Alcheringa, the cultural festival of IIT Guwahati. North East Social Summit aims to tackle and bring awareness about the social, political and economic problems of North East India by means of case study competitions and round table discussions.
+
                 <p class="mb-5 tm-intro-text">
-                  Please tell your friends about our site
-                  <a rel="nofollow" href="https://templatemo.com">templatemo</a>. Thank you.
-                  Curabitur dapibus tristique enim a imperdiet. Etiam
-              tristique sem sed condimentum posuere. </p>
+                  Alcheringa provides the platform for a confluence of the sharp minds students with the experience of experts in the concerned issue. The Policymaker is a unique and one of its kind Data visulization + Case Study Competition in India which aims to scrutinize and suggest improvements in the government policy concerning North East India. <br>
+We also try to take a look at the various strategies adopted by the NGOs and social enterprises operating in the area for addressing the problem and provide them with nuanced, data-driven solutions.
+              </p>                 
+                   </p>
                 <div class="tm-next">
                   <a href="#work" class="tm-intro-text tm-btn-primary">Read More</a>
                 </div>
@@ -619,7 +618,7 @@ green - #01C38D -->
             </div>
 
             <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
-              <a href="tel:0100200340" class="tm-contact-item-link">
+              <a href="tel:+91 75780 62409" class="tm-contact-item-link">
                   <i class="fas fa-3x fa-phone mr-4"></i>
                   <span class="mb-0">
                     Kartikey Sharma<br>
@@ -629,7 +628,7 @@ green - #01C38D -->
               </a>
             </div>
             <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
-              <a href="tel:0100200340" class="tm-contact-item-link">
+              <a href="tel:+91 76639 29177" class="tm-contact-item-link">
                   <i class="fas fa-3x fa-phone mr-4"></i>
                   <span class="mb-0">
                     Hemant Yadav<br>
@@ -639,12 +638,22 @@ green - #01C38D -->
               </a>
             </div>
             <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
-              <a href="tel:0100200340" class="tm-contact-item-link">
+              <a href="tel:+91 8949526567" class="tm-contact-item-link">
                   <i class="fas fa-3x fa-phone mr-4"></i>
                   <span class="mb-0">
                     Shashank Sharma<br>
                     PR Head<br>
                     +91 8949526567
+                  </span>
+              </a>
+            </div>
+            <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
+              <a href="tel:+91 9953074275" class="tm-contact-item-link">
+                  <i class="fas fa-3x fa-phone mr-4"></i>
+                  <span class="mb-0">
+                    Akshat Purohit<br>
+                    Campaigns Head<br>
+                    +91 9953074275
                   </span>
               </a>
             </div>
