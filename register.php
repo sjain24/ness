@@ -285,7 +285,9 @@
       <nav class="navbar navbar-expand-md tm-navbar" id="tmNav">
         <div class="container">
           <div class="tm-next">
-              <a href="#hero" class="navbar-brand">NESS</a>
+            <a href="" class="navbar-brand">
+              <img src="logo.png" height="50px" width="50px">
+            </a>
           </div>
 
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -294,13 +296,25 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item">
-                  <a class="nav-link tm-nav-link" href="#introduction">Introduction</a>
+                  <a class="nav-link tm-nav-link" href="https://alcheringa.in/ness/index.html">Home</a>
               </li>
               <li class="nav-item">
-                  <a class="nav-link tm-nav-link" href="#work">Register</a>
+                  <a class="nav-link tm-nav-link" href="">Summit Plan</a>
+              </li>
+              <!-- <li class="nav-item">
+                  <a class="nav-link tm-nav-link" href="">Speakers</a>
+              </li> -->
+              <li class="nav-item">
+                  <a class="nav-link tm-nav-link" href="">Guidelines</a>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link tm-nav-link" href="register.php">Registration</a>
               </li>
               <li class="nav-item">
                   <a class="nav-link tm-nav-link" href="#contact">Contact Us</a>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link tm-nav-link" href="https://alcheringa.in">Alcheringa.in</a>
               </li>
             </ul>
           </div>
@@ -309,10 +323,10 @@
 
       <div class="text-center tm-hero-text-container">
         <div class="tm-hero-text-container-inner">
-            <h2 class="tm-hero-title">NESS</h2>
+            <h2 class="tm-hero-title">North East Social Summit</h2>
             <p class="tm-hero-subtitle">
-              North East Social Summit
-              <br />by Alcheringa,2020
+              by Alcheringa, IITG
+              <br />
             </p>
         </div>
       </div>
@@ -588,45 +602,79 @@
                 <div class="mb-5 tm-underline">
                   <div class="tm-underline-inner"></div>
                 </div>
+                <!--
                 <p class="mb-5">
                   Nullam tincidunt, lacus a suscipit luctus, elit turpis tincidunt dui,
                   non tempus sem turpis vitae lorem. Maecenas eget odio in sapien ultrices
                   viverra vitae vel leo. Curabitur at elit eu risus pharetra pellentesque
                   at at velit.
                 </p>
+                -->
             </div>
 
             <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
               <a href="tel:0100200340" class="tm-contact-item-link">
                   <i class="fas fa-3x fa-phone mr-4"></i>
-                  <span class="mb-0">010-020-0340</span>
+                  <span class="mb-0">
+                    Kartikey Sharma<br>
+                    Media & Outreach Head<br>
+                    +91 75780 62409
+                  </span>
               </a>
             </div>
+            <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
+              <a href="tel:0100200340" class="tm-contact-item-link">
+                  <i class="fas fa-3x fa-phone mr-4"></i>
+                  <span class="mb-0">
+                    Hemant Yadav<br>
+                    PR Head<br>
+                    +91 76639 29177
+                  </span>
+              </a>
+            </div>
+            <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
+              <a href="tel:0100200340" class="tm-contact-item-link">
+                  <i class="fas fa-3x fa-phone mr-4"></i>
+                  <span class="mb-0">
+                    Shashank Sharma<br>
+                    PR Head<br>
+                    +91 8949526567
+                  </span>
+              </a>
+            </div>
+
             <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
               <a href="mailto:info@company.co" class="tm-contact-item-link">
                   <i class="fas fa-3x fa-envelope mr-4"></i>
-                  <span class="mb-0">info@company.co</span>
+
+              </a>
+              <a href="mailto:info@company.co" class="tm-contact-item-link">
+                  <i class="fas fa-3x fa-facebook-square mr-4"></i>
+
+              </a>
+              <a href="mailto:info@company.co" class="tm-contact-item-link">
+                  <i class="fas fa-3x fa-envelope mr-4"></i>
+
               </a>
             </div>
-            <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
+            <!-- <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
               <a href="https://www.google.com/maps" class="tm-contact-item-link">
                   <i class="fas fa-3x fa-map-marker-alt mr-4"></i>
                   <span class="mb-0">Location on Maps</span>
               </a>
-            </div>
-            <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
+            </div> -->
+            <!-- <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
               <form action="" method="get">
                 <input name="email" type="email" placeholder="Subscribe your email" class="tm-input" required />
                 <button type="submit" class="btn tm-btn-submit">Submit</button>
               </form>
-            </div>
+            </div> -->
         </div>
       </div>
       <footer class="text-center small tm-footer">
           <p class="mb-0">
-            Copyright &copy; 2019 Company Name
-
-            - Design: <a rel="nofollow" href="https://templatemo.com" class="tm-footer-link">Template Mo</a>
+            Copyright &copy; Alcheringa 2020<br>
+            Developed By Team WebOps
           </p>
         </footer>
     </section>
