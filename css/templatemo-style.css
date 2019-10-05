@@ -603,6 +603,8 @@ p {
 }
 
 /*Social icons*/
-.footer-social-icons ul{
+.footer-social-icons ul li{
   list-style: none;
+  display: inline-block;
+  margin: 10px;
 }
