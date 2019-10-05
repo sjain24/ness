@@ -318,7 +318,9 @@ green - #01C38D -->
                   <a class="nav-link tm-nav-link" href="#contact">Contact Us</a>
               </li>
               <li class="nav-item">
-                  <a class="nav-link tm-nav-link" href="https://alcheringa.in">Alcheringa.in</a>
+                  <a class="nav-link tm-nav-link" href="https://alcheringa.in">
+                  	<img src="../img/logo black-1.svg" height="50px">
+                  </a>
               </li>
             </ul>
           </div>
@@ -648,18 +650,39 @@ green - #01C38D -->
             </div>
 
             <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
-              <a href="mailto:info@company.co" class="tm-contact-item-link">
-                  <i class="fas fa-3x fa-envelope mr-4"></i>
-
+              <div class="footer-social-icons">
+                <ul>
+                  <li>
+              <a href="https://www.facebook.com/alcheringaiitg" class="tm-contact-item-link">
+                <i class="fab fa-facebook fa-3x"></i>
               </a>
-              <!-- <a href="mailto:info@company.co" class="tm-contact-item-link">
+            </li>
+            <li>
+              <a href="https://twitter.com/alcheringaiitg?lang=en" class="tm-contact-item-link">
+                <i class="fab fa-twitter fa-3x"></i>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.instagram.com/alcheringaiitg/" class="tm-contact-item-link">
+                <i class="fab fa-instagram fa-3x"></i>
+              </a>
+
+            </li>
+          </ul>
+        </div>
+              <!--
+              <a href="mailto:info@company.co" class="tm-contact-item-link">
+ 
+              </a>
+               <a href="mailto:info@company.co" class="tm-contact-item-link">
                   <i class="fas fa-3x fa-facebook-square mr-4"></i>
 
-              </a> -->
+              </a> 
               <a href="mailto:info@company.co" class="tm-contact-item-link">
                   <i class="fas fa-3x fa-envelope mr-4"></i>
 
               </a>
+            -->
             </div>
             <!-- <div class="col-sm-12 col-md-6 d-flex align-items-center tm-contact-item">
               <a href="https://www.google.com/maps" class="tm-contact-item-link">
