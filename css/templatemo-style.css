@@ -59,7 +59,7 @@ a:focus {
 .tm-btn-primary:hover,
 .tm-btn-primary:focus {
   color: white;
-  background-color: #73c1f6;
+  background-color: #191E29;
 }
 
 /* Navbar */
@@ -265,7 +265,7 @@ a:focus {
 .slick-dots li button:focus:before,
 .slick-dots li.slick-active button:before {
   opacity: 1;
-  color: #3ba0dd;
+  color: ;
 }
 
 .slick-dots li button:before {
@@ -417,9 +417,10 @@ figure.effect-honey:hover h2 i {
 
 #contact {
   color: white;
-  background-image: url(../img/footer.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
+  /* background-image: url(../img/footer.jpg); */
+  /* background-position: center; */
+  /* background-repeat: no-repeat; */
+  background-color: #01C38D;
   min-height: 850px;
   position: relative;
   padding-bottom: 50px;
@@ -455,7 +456,7 @@ figure.effect-honey:hover h2 i {
 
 .tm-contact-item-link:hover i,
 .tm-contact-item-link:hover span {
-  color: #01C38D;
+  color: #191E29;
 }
 
 .tm-input {

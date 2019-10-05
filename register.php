@@ -3,7 +3,7 @@ grey - #E2E3E3
 blue - #191E29
 green - #01C38D -->
 
-
+<!-- template blue: #3496d8; -->
 <?php
     // source code of form
     require 'functions.php';
@@ -652,10 +652,10 @@ green - #01C38D -->
                   <i class="fas fa-3x fa-envelope mr-4"></i>
 
               </a>
-              <a href="mailto:info@company.co" class="tm-contact-item-link">
+              <!-- <a href="mailto:info@company.co" class="tm-contact-item-link">
                   <i class="fas fa-3x fa-facebook-square mr-4"></i>
 
-              </a>
+              </a> -->
               <a href="mailto:info@company.co" class="tm-contact-item-link">
                   <i class="fas fa-3x fa-envelope mr-4"></i>
 
@@ -678,7 +678,7 @@ green - #01C38D -->
       <footer class="text-center small tm-footer">
           <p class="mb-0">
             Copyright &copy; Alcheringa 2020<br>
-            Developed By Team WebOps
+            <span style="color:">Developed By Team WebOps</span>
           </p>
         </footer>
     </section>
