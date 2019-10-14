@@ -309,7 +309,7 @@ green - #01C38D -->
                   <a class="nav-link tm-nav-link" href="">Speakers</a>
               </li> -->
               <li class="nav-item">
-                  <a class="nav-link tm-nav-link" href="">Guidelines</a>
+                  <a class="nav-link tm-nav-link" href="#guidelines">Guidelines</a>
               </li>
               <li class="nav-item">
                   <a class="nav-link tm-nav-link" href="register.php">Registration</a>
@@ -399,6 +399,28 @@ We also try to take a look at the various strategies adopted by the NGOs and soc
         <!-- </div> -->
       <!-- </div> -->
     </section>
+    <section id="guidelines" class="tm-section-pad-top">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="tm-intro-text-container">
+                <h2 class="tm-text-primary mb-4 tm-section-title">Guidelines</h2>
+                <p class="mb-4 tm-intro-text">
+               		<strong>General Guidelines:</strong><br>
+
+               		Registrations will close on 24th October 2019. The case study will be mailed to the Team Head on 25th October 2019. Mail your solution in the form of PowerPoint Presentation in a .ppt format to <a href="mailto:Campaign@alcheringa.in">Campaign@alcheringa.in</a>. Deadline for mailing the solutions: 4th November 2019.<br><br>
+
+					<a href="ness-rules.pdf">(RULE BOOK FOR PRELIMS)</a>
+				</p>
+            
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <img src="img/guidelines-1024x575.jpg" alt="Image" class="img-fluid tm-intro-img" />
+          </div>
+        </div>
+    </div>
+</section>
     <section id="work" class="tm-section-pad-top">
       <!-- <div class="container tm-container-gallery">
         <div class="row">
